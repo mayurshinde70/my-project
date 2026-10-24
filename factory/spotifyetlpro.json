@@ -1,0 +1,15 @@
+{
+	"name": "spotifyetlpro",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f3d5ec7f-dd51-4d47-917c-afc5645a8ad0",
+		"tenantId": "26ac00d3-797f-41c7-a8da-f510ef73eb60"
+	}
+}
